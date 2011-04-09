@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+  <name>17th Ward</name>
+  <description>17th Ward</description>
+
+
+<Placemark>
+  <name>W17 P14</name>
+  <description>W17 P14</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.664135,41.777661,0 -87.664097,41.775831,0 -87.661657,41.77587,0 -87.661611,41.774044,0 -87.659244,41.77408,0 -87.659368,41.777711,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>  
+
+<Placemark>
+  <name>W17 P46</name>
+  <description>W17 P46</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.664097,41.775831,0 -87.664007,41.772197,0 -87.661583,41.772226,0 -87.659188,41.772266,0 -87.659244,41.77408,0 -87.661611,41.774044,0 -87.661657,41.77587,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>  
+
+<Placemark>
+  <name>W17 P13</name>
+  <description>W17 P13</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.659368,41.777711,0 -87.659244,41.77408,0 -87.659188,41.772266,0 -87.656726,41.772316,0 -87.654293,41.772341,0 -87.654333,41.774138,0 -87.647051,41.774257,0 -87.647083,41.77609,0 -87.654376,41.775953,0 -87.654435,41.777803,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P43</name>
+  <description>W17 P43</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.654333,41.774138,0 -87.654293,41.772341,0 -87.650644,41.772394,0 -87.647008,41.772439,0  -87.647051,41.774257,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P1</name>
+  <description>W17 P1</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.664007,41.772197,0 -87.66386,41.770383,0 -87.663829,41.766728,0 -87.661403,41.766765,0 -87.661441,41.768588,0 -87.661522,41.770412,0  -87.661583,41.772226,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>  
+
+<Placemark>
+  <name>W17 P41</name>
+  <description>W17 P41</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.661441,41.768588,0 -87.661403,41.766765,0 -87.663829,41.766728,0 -87.663785,41.764906,0 -87.660561,41.764946,0 -87.658971,41.764967,0 -87.659048,41.766806,0 -87.660215,41.766783,0 -87.660245,41.768607,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P36</name>
+  <description>W17 P36</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.661583,41.772226,0 -87.661522,41.770412,0 -87.656671,41.770474,0 -87.656726,41.772316,0 -87.659188,41.772266,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P8</name>
+  <description>W17 P8</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.661522,41.770412,0 -87.661441,41.768588,0 -87.660245,41.768607,0 -87.656621,41.768661,0 -87.656671,41.770474,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P34</name>
+  <description>W17 P34</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.660245,41.768607,0 -87.660215,41.766783,0 -87.659048,41.766806,0 -87.658971,41.764967,0 -87.655334,41.765055,0 -87.655398,41.768671,0 -87.656621,41.768661,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P39</name>
+  <description>W17 P39</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.656726,41.772316,0 -87.656671,41.770474,0 -87.656621,41.768661,0 -87.655398,41.768671,0 -87.655334,41.765055,0 -87.654106,41.765054,0 -87.654183,41.768688,0 -87.654293,41.772341,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P45</name>
+  <description>W17 P45</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.654293,41.772341,0 -87.654183,41.768688,0 -87.650546,41.768745,0 -87.650602,41.770563,0 -87.650644,41.772394,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P49</name>
+  <description>W17 P49</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.654183,41.768688,0 -87.654106,41.765054,0 -87.652876,41.765072,0 -87.651643,41.765082,0 -87.651707,41.766911,0 -87.649281,41.766941,0 -87.64936,41.768769,0 -87.650546,41.768745,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P6</name>
+  <description>W17 P6</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.650644,41.772394,0 -87.650602,41.770563,0 -87.645747,41.77063,0 -87.645801,41.77244,0 -87.647008,41.772439,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P16</name>
+  <description>W17 P16</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.650602,41.770563,0 -87.650546,41.768745,0 -87.64936,41.768769,0 -87.649281,41.766941,0 -87.64567,41.766994,0 -87.645747,41.77063,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P17</name>
+  <description>W17 P17</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.651707,41.766911,0 -87.651643,41.765082,0 -87.650457,41.765112,0 -87.645614,41.765166,0 -87.64567,41.766994,0 -87.649281,41.766941,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P42</name>
+  <description>W17 P42</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.680887,41.77199,0 -87.680844,41.770185,0 -87.679642,41.770205,0 -87.679575,41.768385,0 -87.678757,41.768398,0 -87.677164,41.768413,0 -87.673616,41.768442,0 -87.673664,41.770265,0 -87.67721,41.770246,0 -87.677224,41.772033,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P63</name>
+  <description>W17 P63</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.678757,41.768398,0 -87.678709,41.764734,0 -87.671075,41.764835,0 -87.669885,41.764845,0 -87.66992,41.766657,0 -87.676002,41.766587,0 -87.676023,41.767519,0 -87.677144,41.767509,0 -87.677164,41.768413,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P64</name>
+  <description>W17 P64</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.677164,41.768413,0 -87.677144,41.767509,0 -87.676023,41.767519,0 -87.676002,41.766587,0 -87.66992,41.766657,0 -87.669972,41.768492,0 -87.673616,41.768442,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P19</name>
+  <description>W17 P19</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.673664,41.770265,0 -87.673616,41.768442,0 -87.669972,41.768492,0 -87.668751,41.768503,0 -87.668798,41.770327,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P62</name>
+  <description>W17 P62</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.668798,41.770327,0 -87.668751,41.768503,0 -87.669972,41.768492,0 -87.66992,41.766657,0 -87.669885,41.764845,0 -87.668659,41.764856,0 -87.667438,41.764872,0 -87.667479,41.766691,0 -87.666274,41.766699,0 -87.666384,41.770343,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P59</name>
+  <description>W17 P59</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.666384,41.770343,0 -87.666274,41.766699,0 -87.667479,41.766691,0 -87.667438,41.764872,0 -87.663785,41.764906,0 -87.663829,41.766728,0 -87.66386,41.770383,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P56</name>
+  <description>W17 P56</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.678709,41.764734,0 -87.678658,41.762909,0 -87.671046,41.763011,0 -87.671075,41.764835,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P57</name>
+  <description>W17 P57</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.678658,41.762909,0 -87.678541,41.761102,0 -87.67098,41.761185,0 -87.671046,41.763011,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P61</name>
+  <description>W17 P61</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.678541,41.761102,0 -87.678547,41.75753,0 -87.673338,41.757654,0 -87.673377,41.759324,0 -87.670921,41.759364,0 -87.67098,41.761185,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P40</name>
+  <description>W17 P40</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.671075,41.764835,0 -87.671046,41.763011,0 -87.67098,41.761185,0 -87.668554,41.761215,0 -87.668659,41.764856,0 -87.669885,41.764845,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P11</name>
+  <description>W17 P11</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.668659,41.764856,0 -87.668554,41.761215,0 -87.666114,41.761219,0 -87.666162,41.763061,0 -87.663729,41.763077,0 -87.663785,41.764906,0 -87.667438,41.764872,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P32</name>
+  <description>W17 P32</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.666162,41.763061,0 -87.666114,41.761219,0 -87.668554,41.761215,0 -87.67098,41.761185,0 -87.670921,41.759364,0 -87.673377,41.759324,0 -87.673338,41.757654,0 -87.663599,41.757531,0 -87.663638,41.759447,0 -87.663698,41.762158,0 -87.663729,41.763077,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P33</name>
+  <description>W17 P33</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.663785,41.764906,0 -87.663729,41.763077,0 -87.663698,41.762158,0 -87.65893,41.762249,0 -87.658933,41.763169,0 -87.660521,41.763145,0 -87.660561,41.764946,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P31</name>
+  <description>W17 P31</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.663698,41.762158,0 -87.663638,41.759447,0 -87.658853,41.75952,0 -87.658901,41.761327,0 -87.65893,41.762249,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P20</name>
+  <description>W17 P20</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.660561,41.764946,0 -87.660521,41.763145,0 -87.658933,41.763169,0 -87.652861,41.763245,0 -87.652876,41.765072,0 -87.654106,41.765054,0 -87.655334,41.765055,0 -87.658971,41.764967,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P23</name>
+  <description>W17 P23</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.658933,41.763169,0 -87.65893,41.762249,0 -87.658901,41.761327,0 -87.653996,41.761419,0 -87.652796,41.761425,0 -87.652861,41.763245,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P5</name>
+  <description>W17 P5</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.658901,41.761327,0 -87.658853,41.75952,0 -87.65882,41.757672,0 -87.653893,41.757931,0 -87.653996,41.761419,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P3</name>
+  <description>W17 P3</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.652876,41.765072,0 -87.652861,41.763245,0 -87.652796,41.761425,0 -87.64917,41.761469,0 -87.6492,41.763298,0 -87.650422,41.763274,0 -87.650457,41.765112,0 -87.651643,41.765082,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P28</name>
+  <description>W17 P28</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.653996,41.761419,0 -87.653893,41.757931,0 -87.650233,41.757982,0 -87.649073,41.757999,0 -87.649089,41.7583,0 -87.64917,41.761469,0 -87.652796,41.761425,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P37</name>
+  <description>W17 P37</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.6492,41.763298,0 -87.64917,41.761469,0 -87.649089,41.7583,0 -87.647858,41.758317,0 -87.647893,41.759682,0 -87.646679,41.759701,0 -87.646791,41.763344,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P9</name>
+  <description>W17 P9</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.646791,41.763344,0 -87.646679,41.759701,0 -87.647893,41.759682,0 -87.647858,41.758317,0 -87.645437,41.758353,0 -87.645463,41.759722,0 -87.64425,41.759741,0 -87.64435,41.763358,0 -87.645574,41.76335,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P44</name>
+  <description>W17 P44</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.64435,41.763358,0 -87.64425,41.759741,0 -87.641813,41.75978,0 -87.641893,41.761591,0 -87.63935,41.761628,0 -87.639319,41.763457,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P35</name>
+  <description>W17 P35</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.641893,41.761591,0 -87.641813,41.75978,0 -87.64425,41.759741,0 -87.644206,41.758071,0 -87.641751,41.75812,0 -87.641703,41.756115,0 -87.639453,41.756149,0 -87.639363,41.759813,0 -87.63935,41.761628,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P48</name>
+  <description>W17 P48</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.639363,41.759813,0 -87.639453,41.756149,0 -87.635648,41.756233,0 -87.6357,41.758054,0 -87.629606,41.758142,0 -87.629611,41.759939,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P50</name>
+  <description>W17 P50</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.639319,41.763457,0 -87.63935,41.761628,0 -87.639363,41.759813,0 -87.630535,41.759954,0 -87.629676,41.761787,0 -87.629716,41.763599,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P47</name>
+  <description>W17 P47</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.650457,41.765112,0 -87.650422,41.763274,0 -87.6492,41.763298,0 -87.646791,41.763344,0 -87.645574,41.76335,0 -87.645614,41.765166,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P29</name>
+  <description>W17 P29</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.663638,41.759447,0 -87.663599,41.757531,0 -87.663494,41.753997,0 -87.661881,41.754016,0 -87.661865,41.752169,0 -87.658662,41.752247,0 -87.65882,41.757672,0 -87.658853,41.75952,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+<Placemark>
+  <name>W17 P30</name>
+  <description>W17 P30</description>
+  
+  <Style>
+    <PolyStyle>
+      <color>44ff0000</color>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+
+  <MultiGeometry>
+    <Polygon>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>-87.649089,41.7583,0 -87.649073,41.757999,0 -87.650233,41.757982,0 -87.650218,41.756019,0 -87.648983,41.756027,0 -87.646578,41.756057,0 -87.646573,41.754241,0 -87.644125,41.754272,0 -87.644206,41.758071,0 -87.64425,41.759741,0 -87.645463,41.759722,0 -87.645437,41.758353,0 -87.647858,41.758317,0</coordinates>
+        </LinearRing>
+      </outerBoundaryIs> 
+    </Polygon>
+  </MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>
